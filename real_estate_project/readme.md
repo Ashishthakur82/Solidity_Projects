@@ -10,6 +10,10 @@ In a partnership with Twin Construction Company, this project facilitates a pre-
 
 Twin towers Construction Company is launching a new real estate project and is offering a pre-sale to customers at a discounted rate. To book a flat, customers need to pay 50% of the total price. The company assures completion of the project within three years. The challenge is to create a reliable and transparent system that instills trust among buyers.
 
+# TwinTower Smart Contract idea
+
+![TwinTower Logo](C:\Users\Ashish Thakur\Downloads\img)
+
 ## Features
 
 - **Secure Payments**: Buyers can securely pay for their bookings through the smart contract.
