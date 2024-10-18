@@ -1,6 +1,6 @@
 # Blood Bank DApp
 
-A decentralized application for managing blood donation and distribution, built on the Ethereum blockchain.
+A decentralized application for managing blood donation and distribution, built on the Ethereum blockchain using Remix IDE.
 
 ## Overview
 
@@ -17,14 +17,6 @@ The Blood Bank DApp connects donors with hospitals, ensuring efficient blood man
 
 - **Solidity**: Smart contract development
 - **Ethereum**: Blockchain platform
-- **Truffle**: Deployment and testing framework
-- **Ganache**: Local blockchain simulation
-- **Web3.js**: Blockchain interaction
 
-## Installation
 
-Follow these steps to set up the project locally:
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/blood-bank-dapp.git
