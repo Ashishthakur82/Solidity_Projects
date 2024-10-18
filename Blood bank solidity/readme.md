@@ -7,7 +7,6 @@ A decentralized application for managing blood donation and distribution, built 
 The Blood Bank DApp connects donors with hospitals, ensuring efficient blood management while promoting transparency and trust. This platform allows donors to register, hospitals to request blood, and maintains records of donations.
 
 ## Features
-
 - **Donor Registration**: Easy sign-up for blood donors.
 - **Request Blood**: Hospitals can post requests for specific blood types.
 - **Blockchain Transparency**: All transactions are recorded on the Ethereum blockchain.
@@ -19,4 +18,6 @@ The Blood Bank DApp connects donors with hospitals, ensuring efficient blood man
 - **Ethereum**: Blockchain platform
 
 
+## Basic Idea
 
+![image](https://github.com/user-attachments/assets/b00d28b3-4748-46f3-ab43-51933cf2d5cf)
